@@ -1,0 +1,31 @@
+*{
+    border-radius: 10px;
+    background: white;
+    /* box-shadow: 5px 5px 15px rgba(0,0,0,0.9); */
+    font-family: roboto;
+    text-align: center !important ;
+}
+.App{
+    background-color:#A0DAA9;
+    margin-top: 8%;
+    margin-bottom: 8%;
+
+}
+.part-image img {
+height: 300px;
+width: 220px;
+}
+.part-name p{
+    cursor: pointer;
+font-size: 20px;
+font-weight: bolder;
+
+}
+.card{
+    margin-left:  600px;
+    padding: 30px 30px;
+    align-items: center;
+    border-radius: 20px ;
+    border-style: outset  ;
+    border: outset;
+}
